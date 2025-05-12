@@ -19,8 +19,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/devisettytarunej/leetcode/tree/master/0053-maximum-subarray) |
+| [1013-fibonacci-number](https://github.com/devisettytarunej/leetcode/tree/master/1013-fibonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/devisettytarunej/leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Math
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/devisettytarunej/leetcode/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/devisettytarunej/leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/devisettytarunej/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
