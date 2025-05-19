@@ -5,12 +5,12 @@ class Solution {
 
          if(row*col != r*c) return mat;
 
-         int[][] ans = new int[r][c];
+         int[][] answer = new int[r][c];
          int x =0; int y =0;
 
          for(int i =0;i<row;i++){
             for(int j=0;j<col;j++){
-                ans[x][y] = mat[i][j];
+                answer[x][y] = mat[i][j];
                 y++;
                 if(y == c){
                     y=0;
@@ -18,6 +18,6 @@ class Solution {
                 }
             }
          }
-         return ans;
+         return answer;
     }
 }
