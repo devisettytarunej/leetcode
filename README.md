@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/devisettytarunej/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0861-flipping-an-image](https://github.com/devisettytarunej/leetcode/tree/master/0861-flipping-an-image) |
 ## Number Theory
 |  |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/devisettytarunej/leetcode/tree/master/0367-valid-perfect-square) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/devisettytarunej/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
