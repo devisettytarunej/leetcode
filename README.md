@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/devisettytarunej/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0861-flipping-an-image](https://github.com/devisettytarunej/leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/devisettytarunej/leetcode/tree/master/0898-transpose-matrix) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/devisettytarunej/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/devisettytarunej/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/devisettytarunej/leetcode/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/devisettytarunej/leetcode/tree/master/1013-fibonacci-number) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/devisettytarunej/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Recursion
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/devisettytarunej/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/devisettytarunej/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/devisettytarunej/leetcode/tree/master/1013-fibonacci-number) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/devisettytarunej/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Memoization
 |  |
 | ------- |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/devisettytarunej/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/devisettytarunej/leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/devisettytarunej/leetcode/tree/master/0898-transpose-matrix) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/devisettytarunej/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -111,4 +115,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/devisettytarunej/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/devisettytarunej/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
